@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MANASRAM-M
-- 👀 I’m interested in ...UX/UI DESIGNING , STARTUPS
+- 👀 I’m interested in ...DATA ANALYTICS , STARTUPS , UI UX DESIGNS
 - 🌱 I’m currently learning ...BCA DATA SCIENCE , UX/UI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... manasram9633@gmail.com
