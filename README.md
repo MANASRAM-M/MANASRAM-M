@@ -56,6 +56,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MANASRAM-M/MANASRAM-M/gh-pages/snake.svg" />
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 ###
