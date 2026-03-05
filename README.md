@@ -57,5 +57,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MANASRAM-M/MANASRAM-M/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/MANASRAM-M/MANASRAM-M/gh-pages/snake.svg" />
 ###
